@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/LAB308_xx/Desktop/ge/UE_Dark_Knight/Dark_Knight/Content/_Dark_Knight/Bluprints/BP_PlayerCharacter.uasset",
+				"C:/Users/LAB308_xx/Desktop/ge/UE_Dark_Knight/Dark_Knight/Content/_Dark_Knight/Widgets/Player_HUD.uasset",
+				"C:/Users/LAB308_xx/Desktop/ge/UE_Dark_Knight/Dark_Knight/Content/_Dark_Knight/Maps/Level01.umap",
+				"C:/Users/LAB308_xx/Desktop/ge/UE_Dark_Knight/Dark_Knight/Content/Chest/BP_Chest.uasset",
 				"C:/Users/phuva/OneDrive/Documents/GitHub/UE_Dark_Knight/Dark_Knight/Content/_Dark_Knight/Bluprints/BP_PlayerCharacter.uasset",
 				"C:/Users/phuva/OneDrive/Documents/GitHub/UE_Dark_Knight/Dark_Knight/Content/_Dark_Knight/Widgets/Player_HUD.uasset",
 				"C:/Users/phuva/OneDrive/Documents/GitHub/UE_Dark_Knight/Dark_Knight/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
