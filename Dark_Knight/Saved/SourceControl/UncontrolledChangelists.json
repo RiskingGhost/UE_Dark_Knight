@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/GithubrepoGame/UE_Dark_Knight/Dark_Knight/Content/_Dark_Knight/Maps/test_LVupsystem.umap",
+				"E:/GithubrepoGame/UE_Dark_Knight/Dark_Knight/Content/_Dark_Knight/Bluprints/BP_UpgradeBonfire.uasset",
+				"E:/GithubrepoGame/UE_Dark_Knight/Dark_Knight/Content/_Dark_Knight/Widgets/PressE.uasset",
+				"E:/GithubrepoGame/UE_Dark_Knight/Dark_Knight/Content/_Dark_Knight/Widgets/UpgradeUI.uasset",
 				"C:/Epic Games/Launcher/Unreal Projects/UE_Dark_Knight/Dark_Knight/Content/Import_Dodge1.uasset",
 				"C:/Epic Games/Launcher/Unreal Projects/UE_Dark_Knight/Dark_Knight/Content/Import_Dodge2.uasset",
 				"C:/Epic Games/Launcher/Unreal Projects/UE_Dark_Knight/Dark_Knight/Content/Impoer_Roll2.uasset",
