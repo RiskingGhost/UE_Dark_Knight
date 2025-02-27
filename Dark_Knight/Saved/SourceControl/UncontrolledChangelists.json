@@ -7,7 +7,12 @@
 			"files": [
 				"C:/Epic Games/Launcher/Unreal Projects/UE_Dark_Knight/Dark_Knight/Content/_Dark_Knight/Animations/Import_Roll1.uasset",
 				"C:/Epic Games/Launcher/Unreal Projects/UE_Dark_Knight/Dark_Knight/Content/_Dark_Knight/Animations/Import_Roll2.uasset",
-				"C:/Epic Games/Launcher/Unreal Projects/UE_Dark_Knight/Dark_Knight/Content/_Dark_Knight/Maps/Level01.umap"
+				"C:/Epic Games/Launcher/Unreal Projects/UE_Dark_Knight/Dark_Knight/Content/_Dark_Knight/Maps/Level01.umap",
+				"C:/Epic Games/Launcher/Unreal Projects/UE_Dark_Knight/Dark_Knight/Content/_Dark_Knight/Blueprints/BP_PlayerCharacter.uasset",
+				"C:/Epic Games/Launcher/Unreal Projects/UE_Dark_Knight/Dark_Knight/Content/_Dark_Knight/Inputs/IA_Heavy_Attack.uasset",
+				"C:/Epic Games/Launcher/Unreal Projects/UE_Dark_Knight/Dark_Knight/Content/_Dark_Knight/Inputs/IA_Light_Attack.uasset",
+				"C:/Epic Games/Launcher/Unreal Projects/UE_Dark_Knight/Dark_Knight/Content/_Dark_Knight/Blueprints/BP_Enemy.uasset",
+				"C:/Epic Games/Launcher/Unreal Projects/UE_Dark_Knight/Dark_Knight/Content/_Dark_Knight/Blueprints/BP_LockOn.uasset"
 			]
 		}
 	]
